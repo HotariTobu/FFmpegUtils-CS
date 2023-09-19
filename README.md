@@ -1,6 +1,6 @@
-#
+# FFmpegUtils-CS
 
-
+`FFmpegUtils-CS` is a utility-set of FFmpeg in C#.
 
 ## Description
 
